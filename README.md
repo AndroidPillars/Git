@@ -28,35 +28,36 @@ Example: Tortoise SVN
 - Working Directory (File) -> git add -> Staging Area(File) -> git commit -> Local Repository.
 
 # Commands
-Commands	Descriptions
-cd Desktop	Opens Desktop
-mkdir Story	Creates the Folder.
-cd Story	Opens the Story Folder.
-ls Story	To List the Files in the Folder.
-touch Sample.txt	For creating the file.
-open Sample.txt	For Opening the fle.
-vim Sample.txt	Text editor.
-rm -rf Sample.txt	For deleting the file.
-rmdir Story	For deleting the folder.
-ls -a	To find the hidden files.
-git init	For creating local repository.
-git status	to get the status.
-git add Sample.txt	For adding the git files in staging.
-git commit -m 'Intial Commit'	For commiting One.txt in Git Repository.
-git commit -a -m 'Intial Commit'	For commiting Entire Files in Git Repository.
-git log	Changes that we have done.
-git log --oneline	For getting the Changes in one line.
-git add .	For entirely adding all files in Git Repository.
-cd ..	To navigate to the Git main folder.
-clear	To clear all.
-git --version	For version check.
-git rm -- cached Sample.txt	For removing that in Git Repository.
-git diff	To find the changes done in the directory.
-touch .gitignore	To ignore the files in Git Repository.
-git config user.name 'Gowtham'	For setting the Author name.
-git config user.email 'Gowtham'	For setting the Author email.
-cat Sample.txt	It reads data from file name and the content as output.
-git checkout	To revert back to the last version.
+| Commands	 | Descriptions |
+| --------	 | ------------ |
+| cd Desktop |	Opens Desktop |
+| mkdir Story	| Creates the Folder. |
+| cd Story | Opens the Story Folder. |
+| ls Story | To List the Files in the Folder. |
+| touch Sample.txt	| For creating the file. |
+| open Sample.txt	| For Opening the fle. |
+| vim Sample.txt	| Text editor. |
+| rm -rf Sample.txt	| For deleting the file. |
+| rmdir Story	| For deleting the folder. |
+| ls -a	| To find the hidden files. |
+| git init	| For creating local repository. |
+| git status	| To get the status. |
+| git add Sample.txt	| For adding the git files in staging. |
+| git commit -m 'Intial Commit'	| For commiting One.txt in Git Repository. |
+| git commit -a -m 'Intial Commit'	| For commiting Entire Files in Git Repository. |
+| git log	| Changes that we have done. |
+| git log --oneline	| For getting the Changes in one line. |
+| git add .	| For entirely adding all files in Git Repository. |
+| cd ..	| To navigate to the Git main folder. |
+| clear |	To clear all. |
+| git --version	| For version check. |
+| git rm -- cached Sample.txt	| For removing that in Git Repository. |
+| git diff	| To find the changes done in the directory. |
+| touch .gitignore	| To ignore the files in Git Repository. |
+| git config user.name 'Gowtham'	| For setting the Author name. |
+| git config user.email 'gowtham@gmail.com'	| For setting the Author email. |
+| cat Sample.txt	| It reads data from file name and the content as output. |
+| git checkout	| To revert back to the last version. |
 
 # GitHub Installation and setup
 - Visit -> https://github.com
