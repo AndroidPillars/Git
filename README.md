@@ -87,7 +87,7 @@ Example: Tortoise SVN
 
 # GitHub Installation and setup
 
-- Visit and Create the Account -> https://github.com
+- Create the Account in https://github.com
 - Create New Repository.
 - To set up Repository we can use Desktop or by using command line.
 - We have to push an existing repository to the Remote Repository.
