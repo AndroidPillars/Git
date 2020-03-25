@@ -7,8 +7,11 @@ with speed and efficiency.
 
 # Version Control System
 
-- VCS is a system to track changes in file(s) by making a version snapshot changes of that particular file over time.
-- Three Types -> Local, Centralized and Distributed Version Control System.
+- Version Control System is a system to track changes in file(s) by making a version snapshot changes of that particular file over time.
+- The various types of the version control systems are,
+  1. Local Version Control System
+  2. Centralized Version Control System
+  3. Distributed Version Control System
 
 # Local Version Control System
 
