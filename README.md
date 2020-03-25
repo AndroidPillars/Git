@@ -1,19 +1,23 @@
 # Git-and-GitHub
 
 # Git
+
 - Git is an Open Source Distributed Version Control System tool designed to handle everything from small to very large projects 
 with speed and efficiency.
 
 # Version Control System
+
 - VCS is a system to track changes in file(s) by making a version snapshot changes of that particular file over time.
 - Three Types -> Local, Centralized and Distributed Version Control System.
 
 # Local Version Control System
+
 - Local version control system maintains track of files within the local system.
 - This approach is very common and simple.
 - This type is also error prone which means the chances of accidentally writing to the wrong file is higher.
 
 # Centralized Version Control System
+
 - In this approach, all the changes in the files are tracked under the centralized server.
 - The centralized server includes all the information of versioned files, and list of clients that check out files from that central place.
 Example: Tortoise SVN
@@ -21,13 +25,16 @@ Example: Tortoise SVN
 # Distributed Version Control System:
 
 # Git Installation
+
 - https://git-scm.com/
 - Install Git -> Select Folder -> Right Click Mouse -> Choose Git Bash Here
 
 # How it Works
+
 - Working Directory (File) -> git add -> Staging Area(File) -> git commit -> Local Repository.
 
 # Commands
+
 | Commands	 | Descriptions |
 | --------	 | ------------ |
 | cd Desktop |	Opens Desktop |
@@ -60,7 +67,8 @@ Example: Tortoise SVN
 | git checkout	| To revert back to the last version. |
 
 # GitHub Installation and setup
-- Visit -> https://github.com
+
+- Visit and Create the Account -> https://github.com
 - Create New Repository.
 - To set up Repository we can use Desktop or by using command line.
 - We have to push an existing repository to the Remote Repository.
@@ -73,6 +81,7 @@ git push -u origin master
 - where, https://github.com/AndroidPillars/Git-and-GitHub.git -> Is the path where we copied from Remote Repository and git push -u origin(Name of Remote) master(Name of Branch) -> It pushes the Local Repository to the Remote Repository.
 
 # Reference Sites
+
 - https://medium.com/@kamilmasyhur/what-do-you-know-about-version-control-system-vcs-6a1e1922c970
 - https://blog.eduonix.com/software-development/learn-three-types-version-control-systems/
 - https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
