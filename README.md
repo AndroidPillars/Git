@@ -26,8 +26,12 @@ with speed and efficiency.
 # Centralized Version Control System
 
 - In this approach, all the changes in the files are tracked under the centralized server.
-- The centralized server includes all the information of versioned files, and list of clients that check out files from that central place.
+- The centralized server includes all the information of versioned files, and list of clients that check out files from that central place.  
 Example: Tortoise SVN
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/48873155/77503128-e67d5a00-6e82-11ea-8bd7-48be2c3c6b94.png"/>
+</p>
 
 # Distributed Version Control System:
 
