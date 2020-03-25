@@ -35,6 +35,14 @@ Example: Tortoise SVN
 
 # Distributed Version Control System:
 
+- Git has a remote repository which is stored in a server and a local repository which is stored in the computer of each developer.
+- This means that the code is not just stored in a central server, but the full copy of the code is present in all the developers’ computers. 
+- Git is a Distributed Version Control System since the code is present in every developer’s computer.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/48873155/77503128-e67d5a00-6e82-11ea-8bd7-48be2c3c6b94.png"/>
+</p>
+
 # Git Installation
 
 - https://git-scm.com/
