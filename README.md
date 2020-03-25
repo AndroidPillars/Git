@@ -19,7 +19,9 @@ with speed and efficiency.
 - This approach is very common and simple.
 - This type is also error prone which means the chances of accidentally writing to the wrong file is higher.
 
-![local](https://user-images.githubusercontent.com/48873155/77502263-60601400-6e80-11ea-97a6-ce034c75a82e.png)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/48873155/77502263-60601400-6e80-11ea-97a6-ce034c75a82e.png"/>
+</p>
 
 # Centralized Version Control System
 
