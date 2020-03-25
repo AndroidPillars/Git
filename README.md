@@ -40,7 +40,7 @@ Example: Tortoise SVN
 - Git is a Distributed Version Control System since the code is present in every developer’s computer.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/48873155/77503128-e67d5a00-6e82-11ea-8bd7-48be2c3c6b94.png"/>
+ <img src="https://user-images.githubusercontent.com/48873155/77503779-7c65b480-6e84-11ea-863d-8231e889fe5f.png"/>
 </p>
 
 # Git Installation
