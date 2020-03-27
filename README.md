@@ -140,6 +140,11 @@ git clone https://github.com/AndroidPillars/Story.git
 <b>where</b>, 
 - https://github.com/AndroidPillars/Story.git is the url you copied in Github.
 
+- Also,you can check the git commit using,
+```ruby
+git log
+```
+
 # How it Works
 
 <p align="center">
