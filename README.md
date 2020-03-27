@@ -101,6 +101,10 @@ Example: Tortoise SVN
 - https://github.com/AndroidPillars/Git-and-GitHub.git is the path where we copied from Remote Repository. 
 - git push -u origin(Name of Remote) master(Name of Branch) it pushes the Local Repository to the Remote Repository.
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/48873155/77735454-98a65480-7030-11ea-957a-7a41c11e5636.png"/>
+</p>
+
 # Common Issues
 
 - <b>In Mac,</b> Warning: unable to access '/Users/username/.config/git/ignore': Permission denied
