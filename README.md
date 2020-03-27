@@ -100,7 +100,7 @@ git push -u origin master
 
 # Common Issues
 
-- Warning: unable to access '/Users/username/.config/git/ignore': Permission denied
+- <b>In Mac,</b> Warning: unable to access '/Users/username/.config/git/ignore': Permission denied
 
 ```ruby
 sudo chown -R username /Users/username
