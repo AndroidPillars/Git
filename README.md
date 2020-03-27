@@ -66,7 +66,8 @@ Example: Tortoise SVN
 | ls -a	| To find the hidden files. |
 | git init	| For creating local repository. |
 | git status	| To get the status. |
-| git add Sample.txt	| For adding the git files in staging. |
+| git add Sample.txt	| For adding <b>Sample.txt</b> git file in staging. |
+| git add .	| For adding entire files in staging. |
 | git commit -m 'Intial Commit'	| For commiting One.txt in Git Repository. |
 | git commit -a -m 'Intial Commit'	| For commiting Entire Files in Git Repository. |
 | git log	| Changes that we have done. |
