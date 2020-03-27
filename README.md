@@ -80,7 +80,7 @@ Example: Tortoise SVN
 | git config user.name 'YourName'	| For setting the Author name. |
 | git config user.email 'YourMail@gmail.com'	| For setting the Author email. |
 | cat Sample.txt	| It reads data from <b>Sample.txt</b> and the content as output. |
-| git checkout sample.txt| To revert back <b>sample.txt</b> to the last version. |
+| git checkout sample.txt| To revert back <b>sample.txt</b> to the previous version. |
 | rm -rf .git	| To remove all the repository expect working directory. |
 
 # GitHub Installation and setup
