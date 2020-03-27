@@ -68,20 +68,19 @@ Example: Tortoise SVN
 | git status	| To get the status. |
 | git add Sample.txt	| For adding <b>Sample.txt</b> git file in staging. |
 | git add .	| For adding entire files in staging. |
-| git commit -m 'Intial Commit'	| For commiting all local changes in Git Repository. |
+| git commit -m 'Intial Commit'	| For commiting all local changes in Git. |
 | git log	| Changes that we have done. |
 | git log --oneline	| For getting the Changes in one line. |
-| git add .	| For entirely adding all files in Git Repository. |
 | cd ..	| To navigate to the Git main folder. |
 | clear |	To clear all. |
 | git --version	| For version check. |
-| git rm -- cached Sample.txt	| For removing that in Git Repository. |
+| git rm --cached Sample.txt	| For removing <b>Sample.txt</b> in Git. |
 | git diff	| To find the changes done in the directory. |
-| touch .gitignore	| To ignore the files in Git Repository. |
-| git config user.name 'Gowtham'	| For setting the Author name. |
-| git config user.email 'gowtham@gmail.com'	| For setting the Author email. |
-| cat Sample.txt	| It reads data from file name and the content as output. |
-| git checkout	| To revert back to the last version. |
+| touch .gitignore	| To ignore the files in Git. |
+| git config user.name 'YourName'	| For setting the Author name. |
+| git config user.email 'YourMail@gmail.com'	| For setting the Author email. |
+| cat Sample.txt	| It reads data from <b>Sample.txt</b> and the content as output. |
+| git checkout sample.txt| To revert back <b>sample.txt</b> to the last version. |
 | rm -rf .git	| To remove all the repository expect working directory. |
 
 # GitHub Installation and setup
