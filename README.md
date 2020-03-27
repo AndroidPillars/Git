@@ -171,6 +171,14 @@ git branch branch-one
 ```ruby
 git branch
 ```
+- The asterisk shows the current Branch.
+
+<b>We can Switch to the Other Brach</b>,
+```ruby
+git checkout branch-one
+```
+<b>Where</b>,
+- git checkout branch-one mentions that, we are Switching from master Branch to branch-one Branch.
 
 # Common Issues
 
