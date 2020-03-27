@@ -83,6 +83,7 @@ Example: Tortoise SVN
 | git config user.email 'YourMail@gmail.com'	| For setting the Author email. |
 | cat Sample.txt	| It reads data from <b>Sample.txt</b> and the content as output. |
 | git checkout sample.txt| To revert back <b>sample.txt</b> to the previous version. |
+| git rm --cached -r .| To remove everything inside current directory of the staging area. |
 | rm -rf .git	| To remove all the repository expect working directory. |
 
 # GitHub Installation and setup
@@ -107,6 +108,16 @@ Example: Tortoise SVN
  <img src="https://user-images.githubusercontent.com/48873155/77735454-98a65480-7030-11ea-957a-7a41c11e5636.png"/>
 </p>
 
+# .gitignore
+
+- You can create a .gitignore file in your repository's root directory to tell Git which files and directories to ignore when you make a commit. 
+- Open Terminal.
+- Navigate to the location of your Git repository.
+- Create a .gitignore file for your repository.
+
+```ruby
+$ touch .gitignore
+```
 # Common Issues
 
 - <b>In Mac,</b> Warning: unable to access '/Users/username/.config/git/ignore': Permission denied
