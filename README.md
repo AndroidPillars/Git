@@ -150,7 +150,27 @@ git log
  <img src="https://user-images.githubusercontent.com/48873155/77751410-a74e3500-704b-11ea-832b-079c272ff37b.png"/>
 </p>
 
+# Branching and Merging
 
+- The Branch allows you create another line of development.
+- We can use this Branch to fork off the development process into two different directions by creating multiple branches.
+- The default branch name in Git is master.
+<b>For Example,</b> 
+- If we are creating a new feature in the current working Application instead of continuing to commit to the master branch we can also create a side branch as experimental branch. So now we have two branches that are parallel to each other and they can developed simultaneously.
+- Now, if at some point in the future, we decide to merge the experimental branch to the master branch then it will be done simply placing a mergerequest in by checking any conflict is there with the main branch code.
+
+
+<b>For Creating New Branch</b>,
+```ruby
+git branch branch-one
+```
+<b>Where</b>,
+- branch-one is the Branch Name.
+
+<b>For Checking the Current Branch</b>,
+```ruby
+git branch
+```
 
 # Common Issues
 
