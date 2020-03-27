@@ -180,6 +180,12 @@ git checkout branch-one
 <b>Where</b>,
 - git checkout branch-one mentions that, we are Switching from master Branch to branch-one Branch.
 
+<b>For Merging from Other Branch to the master Branch</b>,
+```ruby
+git merge First-Branch
+```
+<b>Where</b>,
+- git merge First-Branch mentions that, we are merging the files from branch-one Branch to master Branch.
 # Common Issues
 
 - <b>In Mac,</b> Warning: unable to access '/Users/username/.config/git/ignore': Permission denied
