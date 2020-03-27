@@ -99,7 +99,7 @@ Example: Tortoise SVN
   git push -u origin master
   ```
 <b>where</b>, 
-- https://github.com/AndroidPillars/Git-and-GitHub.git is the path where we copied from Remote Repository. 
+- https://github.com/AndroidPillars/Story.git is the path where we copied from Remote Repository. 
 - git push -u origin(Name of Remote) master(Name of Branch) it pushes the Local Repository to the Remote Repository.
 
 # How it Works
@@ -128,6 +128,17 @@ Sample.txt
 *.log
 ```
 # Clonning
+
+- Open https://github.com
+- Choose the project you want to clone.
+- Click the Clone or download button.
+- Copy the URL
+- Now, In your machine open command prompt and type,
+```ruby
+git clone https://github.com/AndroidPillars/Story.git
+```
+<b>where</b>, 
+- https://github.com/AndroidPillars/Story.git is the url you copied in Github.
 
 # How it Works
 
