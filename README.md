@@ -91,16 +91,6 @@ Example: Tortoise SVN
 - Create New Repository.
 - To set up Repository we can use Desktop or by using command line.
 - We have to push an existing repository to the Remote Repository.
-- For that, We have to copy the address of the GitHub Repository.
-- Then We have to push an existing repository by using the command line (i.e) Project path -> Cmd Prompt
-```ruby
-git remote add origin https://github.com/AndroidPillars/Git-and-GitHub.git
-git push -u origin master
-```
-- Create the Account in https://github.com
-- Create New Repository.
-- To set up Repository we can use Desktop or by using command line.
-- We have to push an existing repository to the Remote Repository.
 - For that, We have to copy the address of the GitHub Repository by clicking clone or download button.
 - We have to push an existing repository by using the command line (i.e) Project path -> Cmd Prompt
 ```ruby
