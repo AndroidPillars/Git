@@ -98,6 +98,14 @@ git push -u origin master
 ```
 - where, https://github.com/AndroidPillars/Git-and-GitHub.git -> Is the path where we copied from Remote Repository and git push -u origin(Name of Remote) master(Name of Branch) -> It pushes the Local Repository to the Remote Repository.
 
+# Common Issues
+
+- warning: unable to access '/Users/username/.config/git/ignore': Permission denied
+
+```ruby
+sudo chown -R username /Users/username
+```
+
 # Reference Sites
 
 - https://medium.com/@kamilmasyhur/what-do-you-know-about-version-control-system-vcs-6a1e1922c970
