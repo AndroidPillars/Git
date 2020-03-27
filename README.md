@@ -192,6 +192,10 @@ git merge First-Branch
 - In the new you can either create or Edit the Files or Folders.
 - Then, you have to click the <b>Commit Changes</b> button at the Bottom by giving the proper comments.
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/48873155/77762282-4a5c7a00-705f-11ea-8176-06b0e654114c.png"/>
+</p>
+
 # Common Issues
 
 - <b>In Mac,</b> Warning: unable to access '/Users/username/.config/git/ignore': Permission denied
