@@ -173,7 +173,7 @@ git branch
 ```
 - The asterisk shows the current Branch.
 
-<b>We can Switch to the Other Brach</b>,
+<b>We can Switch from One Branch to Other Branch</b>,
 ```ruby
 git checkout branch-one
 ```
