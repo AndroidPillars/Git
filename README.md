@@ -54,14 +54,14 @@ Example: Tortoise SVN
 
 | Commands	 | Descriptions |
 | --------	 | ------------ |
-| cd Desktop |	Opens Desktop |
+| cd Desktop |	Opens <b>Desktop</b> |
 | mkdir Story	| Creates the <b>Story</b> Folder. |
 | cd Story | Opens the <b>Story</b> Folder. |
 | ls | To List the Files in the Folder. |
 | touch Sample.txt	| For creating the <b>Sample.txt</b> file. |
 | open Sample.txt	| For Opening the <b>Sample.txt</b> fle. |
 | vim Sample.txt	| For Editing the <b>Sample.txt</b> file using vim editor. |
-| rm -rf Sample.txt	| For deleting the file. |
+| rm -rf Sample.txt	| For deleting the <b>Sample.txt</b> file. |
 | rmdir Story	| For deleting the <b>Story</b> folder. |
 | ls -a	| To find the hidden files. |
 | git init	| For creating local repository. |
@@ -82,6 +82,7 @@ Example: Tortoise SVN
 | git config user.email 'gowtham@gmail.com'	| For setting the Author email. |
 | cat Sample.txt	| It reads data from file name and the content as output. |
 | git checkout	| To revert back to the last version. |
+| rm -rf .git	| To remove all the repository expect working directory. |
 
 # GitHub Installation and setup
 
