@@ -160,7 +160,7 @@ git log
 - Now, if at some point in the future, we decide to merge the experimental branch to the master branch then it will be done simply placing a mergerequest in by checking any conflict is there with the main branch code.
 
 
-<b>For Creating New Branch</b>,
+<b>For Creating New Branch in Git</b>,
 ```ruby
 git branch branch-one
 ```
@@ -186,6 +186,12 @@ git merge First-Branch
 ```
 <b>Where</b>,
 - git merge First-Branch mentions that, we are merging the files from branch-one Branch to master Branch.
+
+<b>For Creating New Branch in Github</b>,
+- Click <b>Branch: master</b> in the Github project Repository where you can create other Branch.
+- In the new you can either create or Edit the Files or Folders.
+- Then, you have to click the <b>Commit Changes</b> button at the Bottom by giving the proper comments.
+
 # Common Issues
 
 - <b>In Mac,</b> Warning: unable to access '/Users/username/.config/git/ignore': Permission denied
