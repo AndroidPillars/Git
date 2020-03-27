@@ -189,7 +189,7 @@ git merge First-Branch
 
 <b>For Creating New Branch in Github</b>,
 - Click <b>Branch: master</b> in the Github project Repository where you can create other Branch.
-- In the new you can either create or Edit the Files or Folders.
+- In the new brach you can either create or Edit the Files or Folders.
 - Then, you have to click the <b>Commit Changes</b> button at the Bottom by giving the proper comments.
 
 <p align="center">
