@@ -118,6 +118,8 @@ Example: Tortoise SVN
 ```ruby
 $ touch .gitignore
 ```
+<b>For Example</b>,
+
 # Common Issues
 
 - <b>In Mac,</b> Warning: unable to access '/Users/username/.config/git/ignore': Permission denied
