@@ -131,6 +131,10 @@ Sample.txt
 
 # How it Works
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/48873155/77751410-a74e3500-704b-11ea-832b-079c272ff37b.png"/>
+</p>
+
 
 
 # Common Issues
