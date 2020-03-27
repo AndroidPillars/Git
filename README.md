@@ -1,5 +1,3 @@
-# Git-and-GitHub
-
 # Git
 
 - Git is an Open Source Distributed Version Control System tool designed to handle everything from small to very large projects 
@@ -57,14 +55,14 @@ Example: Tortoise SVN
 | Commands	 | Descriptions |
 | --------	 | ------------ |
 | cd Desktop |	Opens Desktop |
-| mkdir Story	| Creates the Folder. |
-| cd Story | Opens the Story Folder. |
-| ls Story | To List the Files in the Folder. |
-| touch Sample.txt	| For creating the file. |
-| open Sample.txt	| For Opening the fle. |
-| vim Sample.txt	| Text editor. |
+| mkdir Story	| Creates the <b>Story</b> Folder. |
+| cd Story | Opens the <b>Story</b> Folder. |
+| ls | To List the Files in the Folder. |
+| touch Sample.txt	| For creating the <b>Sample.txt</b> file. |
+| open Sample.txt	| For Opening the <b>Sample.txt</b> fle. |
+| vim Sample.txt	| For Editing the <b>Sample.txt</b> file using vim editor. |
 | rm -rf Sample.txt	| For deleting the file. |
-| rmdir Story	| For deleting the folder. |
+| rmdir Story	| For deleting the <b>Story</b> folder. |
 | ls -a	| To find the hidden files. |
 | git init	| For creating local repository. |
 | git status	| To get the status. |
