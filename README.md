@@ -48,7 +48,9 @@ Example: Tortoise SVN
 
 # How it Works
 
-- Working Directory (File) -> git add -> Staging Area(File) -> git commit -> Local Repository.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/48873155/77731188-73ade380-7028-11ea-90ef-20dee9f175d3.png"/>
+</p>
 
 # Commands
 
