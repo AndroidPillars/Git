@@ -93,13 +93,13 @@ Example: Tortoise SVN
 - We have to push an existing repository to the Remote Repository.
 - For that, We have to copy the address of the GitHub Repository by clicking clone or download button.
 - We have to push an existing repository by using the command line (i.e) Project path -> Cmd Prompt
-```ruby
-git remote add origin https://github.com/AndroidPillars/Story.git
-git push -u origin master
-```
+  ```ruby
+  git remote add origin https://github.com/AndroidPillars/Story.git
+  git push -u origin master
+  ```
 <b>where</b>, 
-- https://github.com/AndroidPillars/Git-and-GitHub.git -> Is the path where we copied from Remote Repository. 
-- git push -u origin(Name of Remote) master(Name of Branch) -> It pushes the Local Repository to the Remote Repository.
+- https://github.com/AndroidPillars/Git-and-GitHub.git is the path where we copied from Remote Repository. 
+- git push -u origin(Name of Remote) master(Name of Branch) it pushes the Local Repository to the Remote Repository.
 
 # Common Issues
 
