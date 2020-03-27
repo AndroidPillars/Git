@@ -119,6 +119,14 @@ Example: Tortoise SVN
 $ touch .gitignore
 ```
 <b>For Example</b>,
+- If you wanna exclude all files ending in .log,
+```ruby
+*.log
+```
+- If you exclude files or folders just enter their names in .gitignore file.
+```ruby
+Sample.txt
+```
 
 # Common Issues
 
