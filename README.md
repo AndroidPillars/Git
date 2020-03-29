@@ -201,6 +201,11 @@ git merge First-Branch
 - Now you make the base as master and in compare choose the branch that you have made changes.
 - You compare the changes you have done and click Create pull request button.
 - Go on to the pull request tab and  check the changes that you have done.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/48873155/77848396-fded7780-71e1-11ea-8865-530f65d80241.png"/>
+</p>
+
 - Finally click the Merge pull request button.
 
 
