@@ -43,7 +43,7 @@ Example: Tortoise SVN
 
 # Git Installation
 
-- https://git-scm.com/
+- Visit, https://git-scm.com/
 - Install Git -> Select Folder -> Right Click Mouse -> Choose Git Bash Here
 
 # How it Works
