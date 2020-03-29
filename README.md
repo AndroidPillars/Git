@@ -108,9 +108,9 @@ Example: Tortoise SVN
 
 # GitHub Installation and setup
 
-- Create the Account in https://github.com
+- Create an Account in https://github.com
 - Create New Repository.
-- To set up Repository we can use Desktop or by using command line.
+- To set up Repository we can use either Desktop or by using command line.
 - We have to push an existing repository to the Remote Repository.
 - For that, We have to copy the address of the GitHub Repository by clicking clone or download button.
 - We have to push an existing repository by using the command line (i.e) Project path -> Cmd Prompt
@@ -118,9 +118,8 @@ Example: Tortoise SVN
   git remote add origin https://github.com/AndroidPillars/Story.git
   git push -u origin master
   ```
-<b>where</b>, 
-- https://github.com/AndroidPillars/Story.git is the path where we copied from Remote Repository. 
-- git push -u origin(Name of Remote) master(Name of Branch) it pushes the Local Repository to the Remote Repository.
+<b>where</b>,  https://github.com/AndroidPillars/Story.git is the path where we copied from Remote Repository and 
+git push -u origin(Name of Remote) master(Name of Branch) it pushes the Local Repository to the Remote Repository.
 
 # How it Works
 
