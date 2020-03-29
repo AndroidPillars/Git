@@ -191,10 +191,15 @@ git merge First-Branch
 - Click <b>Branch: master</b> in the Github project Repository where you can create other Branch.
 - In the new brach you can either create or Edit the Files or Folders.
 - Then, you have to click the <b>Commit Changes</b> button at the Bottom by giving the proper comments.
+- Once you get commited you will find New pull request and  Compare & pull request button.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/48873155/77762282-4a5c7a00-705f-11ea-8176-06b0e654114c.png"/>
 </p>
+
+- Click either New pull request and  Compare & pull request button.
+- Now you make the base as master and in compare choose the branch that you have made changes.
+- Finally, you compare the changes you have done and click Create pull request button to reflect the changes in master branch.
 
 # Common Issues
 
