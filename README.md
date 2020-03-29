@@ -118,7 +118,7 @@ Example: Tortoise SVN
   git remote add origin https://github.com/AndroidPillars/Story.git
   git push -u origin master
   ```
-<b>where</b>,  https://github.com/AndroidPillars/Story.git is the path where we copied from Remote Repository and 
+  <b>where</b>,  https://github.com/AndroidPillars/Story.git is the path where we copied from Remote Repository and 
 git push -u origin(Name of Remote) master(Name of Branch) it pushes the Local Repository to the Remote Repository.
 
 # How it Works
