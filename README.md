@@ -4,7 +4,7 @@
 
 | S.No | Content |
 | --------	 | ------------ |
-| 1 | [History](README.md#history) |
+| 1 | [Git](README.md#git) |
 
 
 
