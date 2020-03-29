@@ -6,7 +6,15 @@
 | 2 | [Version Control System](README.md#version-control-system) |
 | 3 | [Local Version Control System](README.md#local-version-control-system) |
 | 4 | [Centralized Version Control System](README.md#centralized-version-control-system) |
-| 5 | [Distributed Version Control System](README.md#git) |
+| 5 | [Distributed Version Control System](README.md#distributed-version-control-system) |
+| 6 | [Git Installation](README.md#git-installation) |
+| 7 | [Commands](README.md#commands) |
+| 8 | [GitHub Installation and setup](README.md#github-installation-and-setup) |
+| 9 | [.gitignore](README.md#gitignore) |
+| 10 | [Clonning](README.md#clonning) |
+| 11 | [Branching and Merging](README.md#branching-and-merging) |
+| 1 | [Git](README.md#git) |
+| 1 | [Git](README.md#git) |
 
 
 
