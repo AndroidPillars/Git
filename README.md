@@ -134,8 +134,8 @@ Example: Tortoise SVN
 - You can create a .gitignore file in your repository's root directory to tell Git which files and directories to ignore when you make a commit. 
 - Open Terminal.
 - Navigate to the location of your Git repository.
-- Create a .gitignore file for your repository.
-
+- Create a .gitignore file for your repository.  
+  &nbsp;  
   ```ruby
   $ touch .gitignore
   ```
