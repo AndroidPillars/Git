@@ -115,7 +115,7 @@ Example: Tortoise SVN
 - For that, We have to copy the address of the GitHub Repository by clicking clone or download button.
 - We have to push an existing repository by using the command line (i.e) Project path -> Cmd Prompt  
   ```ruby
-  {empty} +
+  
   git remote add origin https://github.com/AndroidPillars/Story.git
   git push -u origin master
   ```
