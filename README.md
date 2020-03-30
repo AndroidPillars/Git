@@ -247,6 +247,8 @@ git merge First-Branch
 - Forking a repository allows you to freely experiment with changes without affecting the original project.
 - Now, Once you forked a remote repository then you now it you have full permission to do whatever it is that you like with this copy of the repository.
 
+# How it Works
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/48873155/77885994-b1f40e80-7285-11ea-9b6a-384b18412675.png"/>
 </p>
