@@ -136,18 +136,19 @@ Example: Tortoise SVN
 - Navigate to the location of your Git repository.
 - Create a .gitignore file for your repository.
 
-```ruby
-$ touch .gitignore
-```
-<b>For Example</b>,
-- If you exclude files or folders just enter their names in .gitignore file.
-```ruby
-Sample.txt
-```
-- If you wanna exclude all files ending in .log,
-```ruby
-*.log
-```
+  ```ruby
+  $ touch .gitignore
+  ```
+  <b>For Example</b>,
+  - If you exclude files or folders just enter their names in .gitignore file.
+  ```ruby
+  Sample.txt
+  ```
+  - If you wanna exclude all files ending in .log,
+  ```ruby
+  *.log
+  ```
+  
 # Clonning
 
 - Open https://github.com
