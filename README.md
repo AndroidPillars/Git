@@ -229,10 +229,10 @@ git merge First-Branch
  <img src="https://user-images.githubusercontent.com/48873155/77762282-4a5c7a00-705f-11ea-8176-06b0e654114c.png"/>
 </p>
 
-- Click either New pull request and  Compare & pull request button.
+- Click either New pull request or Compare & pull request button.
 - Now you make the base as master and in compare choose the branch that you have made changes.
-- You compare the changes you have done and click Create pull request button.
-- Go on to the pull request tab and  check the changes that you have done.
+- You compare the changes you have done, then click create pull request button.
+- Go on to the pull request tab and check the changes that you have done.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/48873155/77848396-fded7780-71e1-11ea-8865-530f65d80241.png"/>
