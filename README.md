@@ -140,7 +140,7 @@ Example: Tortoise SVN
   $ touch .gitignore
   ```
   <b>For Example</b>,
-  - If you exclude files or folders just enter their names in .gitignore file.  
+  - If you wanna exclude files or folders just enter their names in .gitignore file.  
   &nbsp;  
   ```ruby
   Sample.txt
@@ -157,16 +157,18 @@ Example: Tortoise SVN
 - Choose the project you want to clone.
 - Click the Clone or download button.
 - Copy the URL
-- Now, In your machine open command prompt and type,
-```ruby
-git clone https://github.com/AndroidPillars/Story.git
-```
-<b>where</b>, 
-- https://github.com/AndroidPillars/Story.git is the url you copied in Github.
-- Also, you can check the git commit using,
-```ruby
-git log
-```
+- Now, In your machine open command prompt and type,  
+  &nbsp;  
+  ```ruby
+  git clone https://github.com/AndroidPillars/Story.git
+  ```
+  <b>where</b>,  
+  - https://github.com/AndroidPillars/Story.git is the url you copied in Github.
+  - Also, you can check the git commit using,  
+  &nbsp;  
+  ```ruby
+  git log
+  ```
 
 # How it Works
 
