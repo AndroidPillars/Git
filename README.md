@@ -141,10 +141,12 @@ Example: Tortoise SVN
   ```
   <b>For Example</b>,
   - If you exclude files or folders just enter their names in .gitignore file.
+  &nbsp;  
   ```ruby
   Sample.txt
   ```
   - If you wanna exclude all files ending in .log,
+  &nbsp;  
   ```ruby
   *.log
   ```
