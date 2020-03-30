@@ -140,7 +140,8 @@ Example: Tortoise SVN
   ```ruby
   $ touch .gitignore
   ```
-  <b>For Example</b>,
+  <b>For Example</b>,  
+  &nbsp;  
   - If you wanna exclude files or folders just enter their names in .gitignore file.  
   &nbsp;  
   ```ruby
@@ -164,6 +165,7 @@ Example: Tortoise SVN
   git clone https://github.com/AndroidPillars/Git.git
   ```
   <b>where</b>,  
+  &nbsp;  
   - https://github.com/AndroidPillars/Git.git is the url you copied in Github.
   - Also, you can check the git commit using,  
   &nbsp;  
