@@ -205,7 +205,7 @@ git branch branch-one
 ```ruby
 git branch
 ```
-- The asterisk shows the current Branch.
+- The asterisk ididcates the current Branch.
 
 <b>We can Switch from One Branch to Other Branch</b>,
 ```ruby
@@ -217,8 +217,7 @@ git checkout branch-one
 ```ruby
 git merge First-Branch
 ```
-  <b>Where</b>,  
-  - git merge First-Branch mentions that, we are merging the files from branch-one Branch to master Branch.
+ <b>Where</b>, git merge First-Branch mentions that, we are merging the files from branch-one Branch to master Branch.
 
 <b>For Creating New Branch in Github</b>,
 - Click <b>Branch: master</b> in the Github project Repository where you can create other Branch.
