@@ -13,9 +13,9 @@
 | 9 | [.gitignore](README.md#gitignore) |
 | 10 | [Clonning](README.md#clonning) |
 | 11 | [Branching and Merging](README.md#branching-and-merging) |
-| 12 | [Forking and Pull Requests](Git#forking-and-pull-requests) |
-| 13 | [Common Issues](Git#common-issues) |
-| 14 | [Reference Sites](Git#reference-sites) |
+| 12 | [Forking and Pull Requests](README.md#forking-and-pull-requests) |
+| 13 | [Common Issues](README.md#common-issues) |
+| 14 | [Reference Sites](README.md#reference-sites) |
 
 
 
