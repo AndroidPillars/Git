@@ -160,10 +160,10 @@ Example: Tortoise SVN
 - Now, In your machine open command prompt and type,  
   &nbsp;  
   ```ruby
-  git clone https://github.com/AndroidPillars/Story.git
+  git clone https://github.com/AndroidPillars/Git.git
   ```
   <b>where</b>,  
-  - https://github.com/AndroidPillars/Story.git is the url you copied in Github.
+  - https://github.com/AndroidPillars/Git.git is the url you copied in Github.
   - Also, you can check the git commit using,  
   &nbsp;  
   ```ruby
