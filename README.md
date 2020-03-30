@@ -248,7 +248,7 @@ git merge First-Branch
 - Now, Once you forked a remote repository then you now it you have full permission to do whatever it is that you like with this copy of the repository.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/48873155/77848396-fded7780-71e1-11ea-8865-530f65d80241.png"/>
+ <img src="https://user-images.githubusercontent.com/48873155/77885994-b1f40e80-7285-11ea-9b6a-384b18412675.png"/>
 </p>
 
 
