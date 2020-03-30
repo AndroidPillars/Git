@@ -257,9 +257,9 @@ git merge First-Branch
 
 - <b>In Mac,</b> Warning: unable to access '/Users/username/.config/git/ignore': Permission denied
 
-```ruby
-sudo chown -R username /Users/username
-```
+  ```ruby
+  sudo chown -R username /Users/username
+  ```
 
 # Reference Sites
 
