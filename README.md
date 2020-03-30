@@ -120,6 +120,7 @@ Example: Tortoise SVN
   git push -u origin master
   ```
   <b>where</b>,  
+  &nbsp;  
   - https://github.com/AndroidPillars/Git.git is the path where we copied from Remote Repository.
   - git push -u origin(Name of Remote) master(Name of Branch) it pushes the Local Repository to the Remote Repository.
 
