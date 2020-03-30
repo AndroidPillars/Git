@@ -243,6 +243,14 @@ git merge First-Branch
 
 # Forking and Pull Requests
 
+- A fork is a copy of a repository.
+- Forking a repository allows you to freely experiment with changes without affecting the original project.
+- Now, Once you forked a remote repository then you now it you have full permission to do whatever it is that you like with this copy of the repository.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/48873155/77848396-fded7780-71e1-11ea-8865-530f65d80241.png"/>
+</p>
+
 
 # Common Issues
 
