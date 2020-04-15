@@ -118,6 +118,8 @@ Example: Tortoise SVN
 &nbsp;  
   ```ruby
   git remote add origin https://github.com/AndroidPillars/Git.git
+  ```
+  ```ruby
   git push -u origin master
   ```
   <b>where</b>,  
