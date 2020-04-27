@@ -272,7 +272,7 @@ git merge First-Branch
 - https://medium.com/@kamilmasyhur/what-do-you-know-about-version-control-system-vcs-6a1e1922c970
 - https://blog.eduonix.com/software-development/learn-three-types-version-control-systems/
 - https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
-- https://github.com/github/gitignore
 - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 - https://gitexplorer.com/
+- https://github.com/github/gitignore [For .gitignore]
 - https://linuxize.com/post/gitignore-ignoring-files-in-git/ [For .gitignore]
