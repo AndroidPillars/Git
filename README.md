@@ -275,3 +275,4 @@ git merge First-Branch
 - https://github.com/github/gitignore
 - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 - https://gitexplorer.com/
+- https://linuxize.com/post/gitignore-ignoring-files-in-git/ [For .gitignore]
