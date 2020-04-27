@@ -15,7 +15,7 @@
 | 11 | [Branching and Merging](README.md#branching-and-merging) |
 | 12 | [Forking and Pull Requests](README.md#forking-and-pull-requests) |
 | 13 | [Common Issues](README.md#common-issues) |
-| 14 | [Common Issues](README.md#common-issues) |
+| 14 | [Points to get Remember](README.md#points-to-get-remember) |
 | 15 | [Reference Sites](README.md#reference-sites) |
 
 
@@ -265,7 +265,7 @@ git merge First-Branch
   ```
 # Points to get Remember
 
-- In Mac, Press cmd+shift+. ->  to visible the .git file in the respective folder.
+- In Mac, Press cmd+shift+. ->  To show the .git file in the respective folder.
 
 # Reference Sites
 
