@@ -15,7 +15,8 @@
 | 11 | [Branching and Merging](README.md#branching-and-merging) |
 | 12 | [Forking and Pull Requests](README.md#forking-and-pull-requests) |
 | 13 | [Common Issues](README.md#common-issues) |
-| 14 | [Reference Sites](README.md#reference-sites) |
+| 14 | [Common Issues](README.md#common-issues) |
+| 15 | [Reference Sites](README.md#reference-sites) |
 
 
 
@@ -65,7 +66,7 @@ Example: Tortoise SVN
 # Git Installation
 
 - Visit, https://git-scm.com/
-- Install Git -> Select Folder -> Right Click Mouse -> Choose Git Bash Here
+- Follow the Documentation.
 
 # How it Works
 
@@ -262,6 +263,9 @@ git merge First-Branch
   ```ruby
   sudo chown -R username /Users/username
   ```
+# Points to get Remember
+
+- In Mac, Press cmd+shift+. ->  to visible the .git file in the respective folder.
 
 # Reference Sites
 
