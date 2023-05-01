@@ -12,8 +12,8 @@
 | Commands	 | Descriptions |
 | --------	 | ------------ |  
 | git init	| For creating local repository. |
-| git status	| To get the status. |
 | git add .	| For adding entire files in staging. |
+| git status	| To get the status. |
 | git commit -m 'Intial Commit'	| For commiting all local changes in Git. |
 | git log	| Changes that we have done. |
 | git log --oneline	| For getting the Changes in one line. |
