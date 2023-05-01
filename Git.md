@@ -16,4 +16,7 @@
 | git status	| To get the status. |
 | git commit -m 'Intial Commit'	| For commiting all local changes in Git. |
 | git log	| Changes that we have done. |
-| git log --oneline	| For getting the Changes in one line. |
+| git remote add origin 'Remote URL'	| For Adding the Remote URL from the GitHub. |
+| git pull origin 'Branch Name' --allow-unrelated-histories	| Do an Intial Pull before pushing the File to Remote. |
+| git commit -m 'Intial Commit'	| For commiting all local changes in Git. |
+| git push -u origin 'Branch Name' | For pushing the Local Repository Files to Remote. |
