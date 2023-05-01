@@ -17,5 +17,3 @@
 | git commit -m 'Intial Commit'	| For commiting all local changes in Git. |
 | git log	| Changes that we have done. |
 | git log --oneline	| For getting the Changes in one line. |
-| git diff	| To find the changes done in the directory. |
-| git checkout sample.txt| To revert back <b>sample.txt</b> to the previous version. |
