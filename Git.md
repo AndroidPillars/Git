@@ -7,7 +7,7 @@
 - __Git__ is a free and open-source distributed version control system used for tracking changes Locally (i.e.) within our Machine.
 - __GitHub__ is a code hosting platform for version control and collaboration.
 
-# Commands
+## Commands
 
 | Commands	 | Descriptions |
 | --------	 | ------------ |  
