@@ -1,15 +1,17 @@
-## GIT & Github
 
-- Learn Git & Github in 12 minutes
+## Learn Git & Github in 10 minutes
 
-## GIT & Github
+## GIT
 
 - __Git__ is a free and open-source distributed version control system used for tracking changes Locally (i.e.) within our Machine.
+
+## Github
+
 - __GitHub__ is a code hosting platform for version control and collaboration. 
 
 ## .gitignore
 
-- Creating a .gitignore file it tells Git to ignore specified files and directories while doing a commit. 
+- Creating a __.gitignore__ file it tells Git to ignore specified files and directories while doing a commit. 
 
 ## Commands
 
