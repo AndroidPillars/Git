@@ -276,3 +276,6 @@ git merge First-Branch
 - https://gitexplorer.com/
 - https://github.com/github/gitignore [For .gitignore]
 - https://linuxize.com/post/gitignore-ignoring-files-in-git/ [For .gitignore]
+
+- https://www.youtube.com/watch?v=hTYsf6bdSJ8
+- https://www.youtube.com/watch?v=436xDqkfU-s
