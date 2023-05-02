@@ -20,9 +20,14 @@
 | git init	| For creating local repository. |
 | git add .	| For adding entire files in staging. |
 | git status	| To get the status. |
-| git commit -m 'Intial Commit'	| For commiting all local changes in Git. |
+| git commit -m "'Commit Description'"	| For commiting all local changes in Git. |
 | git log	| Changes that we have done. |
 | git remote add origin 'Remote URL'	| For Adding the Remote URL from the GitHub. |
 | git pull origin 'Branch Name' --allow-unrelated-histories	| Do an Intial Pull before pushing the File to Remote. |
-| git commit -m 'Intial Commit'	| For commiting all local changes in Git. |
+| git commit -m "'Commit Description'"	| For commiting all local changes in Git. |
 | git push -u origin 'Branch Name' | For pushing the Local Repository Files to Remote. |
+| git clone 'Remote URL' | To Download the Repository from the Remote URL by making a Copy. |
+| git branch 'branch_name' | To Create the new Branch. | 
+| git branch | To Show the List of Branches. |
+| git checkout 'branch_name' | Move from One branch to Aother branch. |  
+| git merge 'branch_name' | Move from One branch to Aother branch. |
