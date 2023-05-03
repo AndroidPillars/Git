@@ -13,6 +13,18 @@
 
 - Creating a __.gitignore__ file it tells Git to ignore specified files and directories while doing a commit. 
 
+## Git Pull vs Git Fetch
+
+- __Git Pull__ command will get Latest changes from Central Repository to Local Repository(i.e.) File Transfer will happen here.
+- __Git fetch__ is a safer alternative because it pulls in all the commits from your remote but doesn't make any changes to your local files.
+
+## Git Merge vs Git Fetch
+
+- __Git Merge__ and __Git Rebase__ are both used to combine the changes of branches but in a distinct way.
+- __Git merge__ is used to integrate changes from another branch.
+- __Git Rebase__ rebase takes your entire feature branch and moves it to the tip of the main branch.
+
+
 ## Commands
 
 | Commands	 | Descriptions |
